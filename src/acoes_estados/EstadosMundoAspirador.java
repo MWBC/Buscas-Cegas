@@ -1,0 +1,6 @@
+package acoes_estados;
+
+public enum EstadosMundoAspirador {
+
+	ESQ_SUJO_SUJO, ESQ_LIMPO_SUJO, DIR_LIMPO_SUJO, DIR_LIMPO_LIMPO, DIR_SUJO_SUJO, DIR_SUJO_LIMPO, ESQ_SUJO_LIMPO, ESQ_LIMPO_LIMPO;
+}
